@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomaszbilka
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning React and Next
+- 🌱 I’m currently learning React React Native and Next
 - 💞️ I’m looking to collaborate on any interesting programming challange!
 - 📫 How to reach me: tomaszbilka@gmail.com
 
