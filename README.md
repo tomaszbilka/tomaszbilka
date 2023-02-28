@@ -1,5 +1,4 @@
-**Tomasz Biłka**
-> front end developer
+[![Tomasz, Front-end designer](https://assets.selleo.com/banners/abala.svg)](https://selleo.com/) 
 
 <!---
 tomaszbilka/tomaszbilka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
