@@ -1,4 +1,4 @@
-[![Tomasz, Front-end designer](https://assets.selleo.com/banners/tbilka.svg](https://selleo.com/)
+[![Tomasz, Front-end designer](https://assets.selleo.com/banners/tbilka.svg)](https://selleo.com/)
 
 
 ## Languages and Tools:
